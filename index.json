@@ -8,7 +8,7 @@
       {
       "name": "Folium",
       "version": "1.7",
-      "icon": "https://folium.emuplace.app/Icon_Favicon.png",
+      "icon": "https://avatars.githubusercontent.com/u/170167774?s=200&v=4",
       "down": "https://download.starfiles.co/cf6097f6a3f0",
       "description": "folium | 3ds emulator.",
       "bundleID": "com.antique.Folium-iOS",
@@ -25,4 +25,14 @@
       "enableBackup": true
     }
 ]
-}
+  "games": [
+    {
+      "name": "Charlie The Steak",
+      "version": "1.2",
+      "icon": "https://i.pinimg.com/736x/db/0f/d2/db0fd22e3321e2bf63f6e156790f9129.jpg",
+      "down": "https://archive.org/download/charlie-the-steak-ios-all-versions/Cracked/64-bit/Charlie%2C%20the%20Steak%201.2%20%28495%29%2064-bit%20644918861-812715227%20Cracked.ipa",
+      "description": "charlie the steak | game about gore and a steak",
+      "bundleID": "com.dynamicdust.CharlieTheSteak",
+      "category": "games"
+      }
+]

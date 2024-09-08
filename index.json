@@ -11,7 +11,18 @@
       "icon": "https://folium.emuplace.app/Icon_Favicon.png",
       "down": "https://download.starfiles.co/cf6097f6a3f0",
       "description": "folium | 3ds emulator.",
-      "bundleID": "com.antique.Folium-iOS"
-      }
+      "bundleID": "com.antique.Folium-iOS",
+      "category": "emulators"
+      },
+      {
+      "name": "iNDS",
+      "version": "1.10.8",
+      "icon": "https://iosninja.io/img/ipas/inds.png",
+      "down": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.8/iNDS.ipa",
+      "category": "emulators",
+      "description": "inds | nintendo ds emulator",
+      "bundleID": "net.nerd.iNDS",
+      "enableBackup": true
+    }
 ]
 }

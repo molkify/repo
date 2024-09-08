@@ -1,0 +1,17 @@
+{
+  "META": {
+    "repoName": "molkis games and emulators",
+    "repoIcon": "https://r2.guns.lol/d5f1bf17-4415-4bea-93cb-ce3bab0a389c.jpeg"
+  },
+
+  "emulators": [
+      {
+      "name": "Folium",
+      "version": "1.7",
+      "icon": "https://folium.emuplace.app/Icon_Favicon.png",
+      "down": "https://download.starfiles.co/cf6097f6a3f0",
+      "description": "folium | 3ds emulator.",
+      "bundleID": "com.EmuPlace.Folium"
+      }
+]
+}
